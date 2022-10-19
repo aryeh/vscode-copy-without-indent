@@ -2,6 +2,7 @@
   "name": "copy-without-indent",
   "displayName": "Copy without indent",
   "description": "Copy text without indent",
+  "publisher": "aryeh",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.72.0"
