@@ -16,7 +16,7 @@ And hit <kbd>Shift</kbd>+<kbd>⌘</kbd>+<kbd>C</kbd> or <kbd>Ctrl</kbd>+<kbd>Shi
 
 ![demo3](demo3.png)
 
-It copies the selected lines (including the initial part of the first line and the full last linne), but without the initial indentation.
+It copies the selected lines (including the initial part of the first line and the full last line), but without the initial indentation.
 
 
 ## Features
