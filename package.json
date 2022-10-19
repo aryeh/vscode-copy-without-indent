@@ -3,9 +3,9 @@
   "displayName": "Copy without indent",
   "description": "Copy text without indent",
   "publisher": "aryeh",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
-    "vscode": "^1.72.0"
+    "vscode": "^1.20.0"
   },
   "categories": [
     "Other"
@@ -56,7 +56,7 @@
     "@types/glob": "^8.0.0",
     "@types/mocha": "^10.0.0",
     "@types/node": "16.x",
-    "@types/vscode": "^1.72.0",
+    "@types/vscode": "^1.20.0",
     "@typescript-eslint/eslint-plugin": "^5.38.1",
     "@typescript-eslint/parser": "^5.38.1",
     "@vscode/test-electron": "^2.1.5",
