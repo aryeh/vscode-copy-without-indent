@@ -4,6 +4,10 @@ All notable changes to the "copy-without-indent" extension will be documented in
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.4] - 2022-10-19
+
+- Add Icon
+
 ## [0.0.3] - 2022-10-18
 
 - Add better description in README and demo images.

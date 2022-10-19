@@ -31,6 +31,11 @@ It copies the selected lines (including the initial part of the first line and t
 
 ## Release Notes
 
+
+### 0.0.4
+
+- Add Icon
+
 ### 0.0.3
 
 - Add better description in README and demo images.
@@ -42,4 +47,4 @@ It copies the selected lines (including the initial part of the first line and t
 
 ### 0.0.1
 
-Initial release of copy-without-indent
+- Initial release of copy-without-indent
