@@ -1,9 +1,9 @@
 {
   "name": "copy-without-indent",
   "displayName": "Copy without indent",
-  "description": "Copy text without indent",
+  "description": "Copy lines of text without initial indent",
   "publisher": "aryeh",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.20.0"
   },

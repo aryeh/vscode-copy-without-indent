@@ -10,9 +10,16 @@ export function activate(context: vscode.ExtensionContext) {
 		if (editor.selections.length === 1) {
 			const document = editor.document;
 			if (!document) return;
+			
+			const lastLineText = editor.document.lineAt(editor.selection.end);
 
 			// start at the beginning of the line.
-			const selectedText = document.getText(editor.selection.with(editor.selection.start.with(undefined, 0)));
+			const selectedText = document.getText(
+				editor.selection.with(
+					editor.selection.start.with(undefined, 0),
+					editor.selection.end.with(undefined, lastLineText.text.length )
+					),
+				);
 			if (!selectedText) return;
 
 			const textLines = selectedText.split('\n');
